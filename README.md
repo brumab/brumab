@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Bruno Molina</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado por python web</h3>
+<h3 align="center">Um desenvolvedor por python web</h3>
 <img align="right" alt="Coding" width="400" src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F34hb3xhy19l0onwxsc5o.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brumab&label=Profile%20views&color=0e75b6&style=flat" alt="brumab" /> </p>
