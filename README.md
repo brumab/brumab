@@ -39,10 +39,10 @@ Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
 
 <h3 align="center">📊 Estatísticas</h3>
 
-<p align="center">
+<div align="center">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=brumab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brumab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+</div>
 
 
 
