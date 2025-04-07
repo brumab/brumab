@@ -4,7 +4,7 @@
 
 ## Sobre mim.
 
-**Bruno Molina**, tenho 39 anos e sou **PCD auditivo**, estudante de **Análise e Desenvolvimento de Sistemas** pela **Unicesumar**.
+** Eu sou Bruno Molina! **, tenho 39 anos e sou **PCD auditivo**, estudante de **Análise e Desenvolvimento de Sistemas** pela **Unicesumar**.
 Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
 
 
