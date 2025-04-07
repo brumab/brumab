@@ -19,7 +19,7 @@ Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
 
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
-<p align="center">
+<div>
   <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -33,7 +33,7 @@ Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
   <img alt="Ubuntu" title="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" />
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Jupyter" title="Jupyter Notebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-</p>
+  </div>
 
 ---
 
