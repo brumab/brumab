@@ -36,7 +36,7 @@ Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
   <img alt="Jupyter" title="Jupyter Notebook" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
   </div>
 
----
+
 
 
 
