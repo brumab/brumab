@@ -13,7 +13,6 @@ Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
 - **APIs**,
 - **bancos de dados**: MySql, SQLite
 - **lógica de programação em C**
-- Power BI
 
 ---
 
