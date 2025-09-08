@@ -10,7 +10,7 @@ Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
 
 - **Front-end**: HTML, CSS, JavaScript, Bootstrap 
 - **Back-end**: Python (Flask e Django)
-- **APIs**,
+- **APIs  Django REST Framework **,
 - **bancos de dados**: MySql, SQLite
 - **lógica de programação em C**
 
