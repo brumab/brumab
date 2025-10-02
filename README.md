@@ -19,7 +19,7 @@ Atuo como <strong>Desenvolvedor Full Stack</strong>, com experiência em:
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 
-  <img alt="Html" title="Html" width="60px" src="(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist])
+  [<img align="left" alt="React" width="26px" src="(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist])
   <img alt="CSS" title="CSS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Flask" title="Flask" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
