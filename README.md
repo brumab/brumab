@@ -12,7 +12,7 @@
 - **Back-end**: Python (Flask e Django)
 - **APIs  Django REST Framework **,
 - **bancos de dados**: MySql, SQLite
-- **lógica de programação em C**
+
 
 ---
 
