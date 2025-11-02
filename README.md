@@ -5,7 +5,7 @@
 ## Sobre mim.
 
 **Eu sou Bruno Molina!**, tenho 39 anos e sou **PCD auditivo**, estudante de **Análise e Desenvolvimento de Sistemas** **Unicesumar**.
-<strong>Desenvolvedor Full Stack</strong>, com experiência em:
+, com experiência em:
 
 
 - **Front-end**: HTML, CSS, JavaScript, Bootstrap, React 
